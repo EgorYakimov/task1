@@ -6,7 +6,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         int cost = 13676;
-        int bonus = cost/20;
+        int bonus = cost / 20;
         System.out.println("Your bonus " + bonus);
 
     }
